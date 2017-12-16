@@ -1,5 +1,7 @@
 # Tools for 2-D Tomographic Reconstruction
 
+![](tomo.png)
+
 There are two main methods for **tomographic reconstruction**:
 1. **Filtered back-projection** or **FBP** which is based on [Radon transform](https://en.wikipedia.org/wiki/Radon_transform) and its inverse transform;
 2. **Algebraic reconstruction technique** or **ART** which is based on solving linear algebra equations.
